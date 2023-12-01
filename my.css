@@ -1596,8 +1596,8 @@ p {
 */
 @font-face {
   font-family: 'icofont';
-  src: url("../fonts/icofont7858.eot?v=1.0.0-beta");
-  src: url("../fonts/icofont7858.eot?v=1.0.0-beta#iefix") format("embedded-opentype"), url("../fonts/icofont7858.ttf?v=1.0.0-beta") format("truetype"), url("../fonts/icofont7858.woff?v=1.0.0-beta") format("woff");
+  src: url("icofont7858.eot?v=1.0.0-beta");
+  src: url("icofont7858.eot?v=1.0.0-beta#iefix") format("embedded-opentype"), url("../fonts/icofont7858.ttf?v=1.0.0-beta") format("truetype"), url("../fonts/icofont7858.woff?v=1.0.0-beta") format("woff");
   font-weight: normal;
   font-style: normal;
 }
