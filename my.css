@@ -10343,7 +10343,7 @@ p {
 }
 
 .c-timeline-experience__item:last-child {
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 
 .c-timeline-experience__header {
